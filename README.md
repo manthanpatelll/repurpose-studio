@@ -1,4 +1,10 @@
-# Repurpose Studio
+# 🎬 Repurpose Studio
+
+**By Manthan Patel (@LeadGenMan)**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/leadgenmanthan/) • 📸 [Instagram](https://www.instagram.com/leadgenman/) • 📘 [Facebook](https://www.facebook.com/leadgenman/) • 🎥 [YouTube](https://www.youtube.com/@LeadGenMan) • 🎵 [TikTok](https://www.tiktok.com/@leadgenmanthan) • 🎓 [Skool Community](https://www.skool.com/ai-inner-circle/about) • 🎬 [TiltIt](https://tiltit.video) • ✏️ [PenAnywhere](https://apps.apple.com/us/app/penanywhere/id6760774183) • 🗣️ [Impromptly AI](https://impromptly.ai/)
+
+---
 
 A local, browser-based video editor that turns one long-form video into ready-to-post vertical Reels. Load your raw footage, pick the short you want, and it builds a 50/50 split-screen clip with captions, sound effects, transitions, and an optional Claude mascot that hops on every word.
 
@@ -6,7 +12,7 @@ Runs entirely on your machine. No uploads, no per-clip credits, no subscription.
 
 Built with Claude Code. Free to clone, personalize, and make your own.
 
-![Repurpose Studio](app/repurpose-studio/icon.svg)
+> Want the full video pipeline? Six skills for rough cut, captions, YouTube descriptions, Instagram captions, reel overlays, and content series live in **[leadgenman-video-skills](https://github.com/manthanpatelll/leadgenman-video-skills)**, and the standalone SFX generator lives in **[soundeffects-claude-code](https://github.com/manthanpatelll/soundeffects-claude-code)**.
 
 ## What it does
 
@@ -58,6 +64,27 @@ You do not need to write code. Open Claude Code in your terminal, tell it what y
 
 Next.js 15 (App Router), React 19, TypeScript, Canvas 2D (no WebGL), Zustand, WebCodecs + Mediabunny for export, Tailwind v4, shadcn/ui. Local-only, not deployed anywhere.
 
+## 🎓 Join the community
+
+I share how I build tools like this with Claude Code, plus the rest of my content workflow, inside my free Skool community.
+
+👉 **[Join the AI Inner Circle on Skool (free)](https://www.skool.com/ai-inner-circle/about)**
+
+## 🔗 Connect with me
+
+* Instagram: https://www.instagram.com/leadgenman/
+* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/
+* Facebook: https://www.facebook.com/leadgenman/
+* TikTok: https://www.tiktok.com/@leadgenmanthan
+* YouTube: https://www.youtube.com/@LeadGenMan
+* Community: https://www.skool.com/ai-inner-circle/about
+
+## 🚀 My products
+
+* TiltIt: https://tiltit.video
+* PenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183
+* Impromptly AI: https://impromptly.ai/
+
 ## Credits
 
 - Built with [Claude Code](https://claude.com/claude-code) by [Anthropic](https://anthropic.com).
@@ -66,3 +93,7 @@ Next.js 15 (App Router), React 19, TypeScript, Canvas 2D (no WebGL), Zustand, We
 ## License
 
 MIT. See [LICENSE](LICENSE). Use it, fork it, ship it.
+
+---
+
+⭐ **If this saved you time, star the repo and [join the community](https://www.skool.com/ai-inner-circle/about).**

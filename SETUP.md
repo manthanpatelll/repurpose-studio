@@ -126,3 +126,18 @@ REPURPOSE_SFX_ENGINE_DIR=/path/to/your/sfx-engine npm run dev
 ## Questions
 
 This is a community giveaway project. Fork it, break it, rebuild it however you like.
+
+## 🔗 Connect with me
+
+* Instagram: https://www.instagram.com/leadgenman/
+* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/
+* Facebook: https://www.facebook.com/leadgenman/
+* TikTok: https://www.tiktok.com/@leadgenmanthan
+* YouTube: https://www.youtube.com/@LeadGenMan
+* Community: https://www.skool.com/ai-inner-circle/about
+
+## 🚀 My products
+
+* TiltIt: https://tiltit.video
+* PenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183
+* Impromptly AI: https://impromptly.ai/
