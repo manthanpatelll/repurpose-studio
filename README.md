@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="icon.svg" alt="Repurpose Studio" width="120" height="120">
-</p>
+<img src="icon.svg" alt="Repurpose Studio" width="120" height="120">
 
 # 🎬 Repurpose Studio
 
