@@ -99,14 +99,14 @@ Nothing is uploaded. There is no account, no server, no cloud.
 
 ## 7. Personalize it (the fun part)
 
-This repo is a starting point. Open **Claude Code** in the project folder and describe what you want changed in plain English. Some ideas:
+This repo is a starting point. Open your AI coding agent in the project folder and describe what you want changed in plain English. Some ideas:
 
-- **New caption templates**: "Create a caption style with a glow effect." Claude builds a preview page you can view before adding it to the app.
-- **Swap the mascot**: replace the Claude pixel mascot with your own brand character.
+- **New caption templates**: "Create a caption style with a glow effect." The agent builds a preview page you can view before adding it to the app.
+- **Swap the mascot**: replace the pixel mascot with your own brand character.
 - **Change the look**: different fonts, colors, split ratios, transitions.
 - **Your own sound library**: point the SFX panel at your own effects.
 
-You describe the feature, Claude writes the code, you approve it. That is the whole workflow.
+You describe the feature, the agent writes the code, you approve it. That is the whole workflow.
 
 ## Optional: automatic sound effects engine
 

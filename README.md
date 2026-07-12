@@ -10,7 +10,7 @@ A local, browser-based video editor that turns one long-form video into ready-to
 
 Runs entirely on your machine. No uploads, no per-clip credits, no subscription. Your footage never leaves your laptop.
 
-Built with Claude Code. Free to clone, personalize, and make your own.
+Free to clone, personalize, and make your own.
 
 > Want the full video pipeline? Six skills for rough cut, captions, YouTube descriptions, Instagram captions, reel overlays, and content series live in **[leadgenman-video-skills](https://github.com/manthanpatelll/leadgenman-video-skills)**, and the standalone SFX generator lives in **[soundeffects-claude-code](https://github.com/manthanpatelll/soundeffects-claude-code)**.
 
@@ -51,14 +51,14 @@ Full walkthrough in [SETUP.md](SETUP.md).
 
 ## Make it yours
 
-This is a starting point, not a finished product you have to accept as-is. It was built with Claude Code from plain-English prompts, and you can extend it the same way:
+This is a starting point, not a finished product you have to accept as-is. It was built by describing features in plain English to an AI coding agent, and you can extend it the same way with whatever agent you use:
 
-- Add your own caption templates (open Claude Code, describe the style you want, preview it as an Artifact, then import the one you like).
-- Swap the Claude mascot for your own brand character.
+- Add your own caption templates (describe the style you want, preview it, then import the one you like).
+- Swap the mascot for your own brand character.
 - Change the split ratios, transitions, fonts, and colors to match your channel.
 - Wire in your own sound effect library.
 
-You do not need to write code. Open Claude Code in your terminal, tell it what you want, and let it build the feature.
+You do not need to write code. Open your coding agent in the terminal, tell it what you want, and let it build the feature.
 
 ## Tech stack
 
@@ -66,7 +66,7 @@ Next.js 15 (App Router), React 19, TypeScript, Canvas 2D (no WebGL), Zustand, We
 
 ## 🎓 Join the community
 
-I share how I build tools like this with Claude Code, plus the rest of my content workflow, inside my free Skool community.
+I share how I build tools like this with AI coding agents, plus the rest of my content workflow, inside my free Skool community.
 
 👉 **[Join the AI Inner Circle on Skool (free)](https://www.skool.com/ai-inner-circle/about)**
 
@@ -87,8 +87,7 @@ I share how I build tools like this with Claude Code, plus the rest of my conten
 
 ## Credits
 
-- Built with [Claude Code](https://claude.com/claude-code) by [Anthropic](https://anthropic.com).
-- Claude mascot pixel art inspired by the [Claude Code Mascot Generator](https://claude-code-mascot-generator.replit.app/).
+- Mascot pixel art inspired by the [mascot generator](https://claude-code-mascot-generator.replit.app/).
 
 ## License
 
